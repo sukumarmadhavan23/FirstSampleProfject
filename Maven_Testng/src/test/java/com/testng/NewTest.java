@@ -22,6 +22,8 @@ public class NewTest {
   }
   @Test
   public void t()
+   @Test
+  public void S()
   {
 	  System.out.println("this is my test area 2");
   }
