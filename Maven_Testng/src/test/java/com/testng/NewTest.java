@@ -20,6 +20,11 @@ public class NewTest {
   {
 	  System.out.println("this is my test area 2");
   }
+  @Test
+  public void t()
+  {
+	  System.out.println("this is my test area 2");
+  }
 
   @AfterClass
   public void afterClass() {
